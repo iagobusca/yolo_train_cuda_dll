@@ -1,0 +1,12 @@
+E:\Script Python Meu\0_antigravity\Yolo_train\obj\Release\net10.0-windows\win-x64\Yolo_train.csproj.AssemblyReference.cache
+E:\Script Python Meu\0_antigravity\Yolo_train\obj\Release\net10.0-windows\win-x64\Yolo_train.GeneratedMSBuildEditorConfig.editorconfig
+E:\Script Python Meu\0_antigravity\Yolo_train\obj\Release\net10.0-windows\win-x64\Yolo_train.AssemblyInfoInputs.cache
+E:\Script Python Meu\0_antigravity\Yolo_train\obj\Release\net10.0-windows\win-x64\Yolo_train.AssemblyInfo.cs
+E:\Script Python Meu\0_antigravity\Yolo_train\obj\Release\net10.0-windows\win-x64\Yolo_train.csproj.CoreCompileInputs.cache
+E:\Script Python Meu\0_antigravity\Yolo_train\bin\Release\net10.0-windows\win-x64\Yolo_train.deps.json
+E:\Script Python Meu\0_antigravity\Yolo_train\bin\Release\net10.0-windows\win-x64\Yolo_train.dll
+E:\Script Python Meu\0_antigravity\Yolo_train\bin\Release\net10.0-windows\win-x64\Yolo_train.pdb
+E:\Script Python Meu\0_antigravity\Yolo_train\obj\Release\net10.0-windows\win-x64\Yolo_train.dll
+E:\Script Python Meu\0_antigravity\Yolo_train\obj\Release\net10.0-windows\win-x64\refint\Yolo_train.dll
+E:\Script Python Meu\0_antigravity\Yolo_train\obj\Release\net10.0-windows\win-x64\Yolo_train.pdb
+E:\Script Python Meu\0_antigravity\Yolo_train\obj\Release\net10.0-windows\win-x64\ref\Yolo_train.dll

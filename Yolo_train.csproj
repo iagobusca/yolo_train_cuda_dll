@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Alvo que você pediu -->
+    <TargetFramework>net10.0-windows</TargetFramework>
+
+    <!-- Saída em forma de DLL nativa (NativeAOT) -->
+    <OutputType>Library</OutputType>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+
+    <!-- NativeAOT -->
+    <PublishAot>true</PublishAot>
+    <StripSymbols>true</StripSymbols>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <NativeLib>Shared</NativeLib>   <!-- gera .dll compartilhada -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Treino YOLO em C# -->
+    <PackageReference Include="IntptrMax.YoloSharp" Version="1.1.15" />
+
+    <!-- Escolha UMA dessas, de acordo com o que você quer (CPU ou CUDA) -->
+    <!-- Exemplo: CUDA 12.1 em Windows x64 -->
+    <PackageReference Include="libtorch-cuda-12.1-win-x64" Version="2.5.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="OpenCvSharp4" Version="4.11.0.20250507" />
+
+    <PackageReference Include="TorchSharp" Version="0.105.1" />
+    <PackageReference Include="TorchVision" Version="0.105.1" />
+
+  </ItemGroup>
+
+</Project>

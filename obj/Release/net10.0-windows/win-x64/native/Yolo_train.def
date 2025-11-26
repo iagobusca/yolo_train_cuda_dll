@@ -1,0 +1,8 @@
+EXPORTS
+   DotNetRuntimeDebugHeader DATA
+   yt_get_last_error
+   yt_create_task
+   yt_load_model
+   yt_train
+   yt_predict_image
+   yt_get_last_result_count
