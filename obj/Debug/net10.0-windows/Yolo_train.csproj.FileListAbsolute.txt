@@ -10,3 +10,4 @@ E:\Script Python Meu\0_antigravity\Yolo_train\obj\Debug\net10.0-windows\Yolo_tra
 E:\Script Python Meu\0_antigravity\Yolo_train\obj\Debug\net10.0-windows\refint\Yolo_train.dll
 E:\Script Python Meu\0_antigravity\Yolo_train\obj\Debug\net10.0-windows\Yolo_train.pdb
 E:\Script Python Meu\0_antigravity\Yolo_train\obj\Debug\net10.0-windows\ref\Yolo_train.dll
+E:\Script Python Meu\0_antigravity\Yolo_train\obj\Debug\net10.0-windows\Yolo_train.sourcelink.json
